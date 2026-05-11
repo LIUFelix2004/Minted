@@ -1,0 +1,17 @@
+{
+  "name": "hash256-gpu-miner",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "mine": "node src/miner.mjs",
+    "check": "node src/miner.mjs --self-test",
+    "h98:mine": "node src/h98-miner.mjs",
+    "h98:check": "node src/h98-miner.mjs --self-test"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "puppeteer-core": "^24.43.0"
+  }
+}
