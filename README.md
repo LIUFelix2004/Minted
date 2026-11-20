@@ -127,3 +127,13 @@ H98 脚本支持多个 RPC fallback。建议使用 `H98_RPC_URLS` 配置多个�
 - 不要把私钥写入 README、源码或截图
 - 建议使用专门的钱包运行脚本，只放少量 ETH 支付 gas
 - 提交交易前请确认合约地址、RPC 和 gas 设置
+
+<!-- felix-ai-shop:start -->
+
+---
+
+### 🛒 Felix AI 工具小铺
+
+各种低价 AI 工具，稳定直供 → **[felixaitools.shop/](https://felixaitools.shop/)**
+
+<!-- felix-ai-shop:end -->
